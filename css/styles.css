@@ -1,0 +1,119 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    
+}
+
+h1 {
+    margin: 50px auto 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: 2;
+    
+}
+
+h2 {
+    font-family: mont;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3 {
+    color: #11999E;
+}
+
+a {
+    color: #11999E;
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    margin: 5% auto;
+    width: 5%;
+}
+
+
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding: 100px 100px 0;
+}
+
+.middle-container {
+    margin: 100px 0;
+    
+}   
+
+.bottom-container {
+    
+}
+
+.top-cloud {
+    position: absolute;
+    right: 200px;
+    top: 50px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.skill {
+    
+}
+
+.skill-row {
+    margin: 100px auto; 
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+
+.code-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.chilli-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.btn {
+    background-color: #66BFBF;
+    line-height: 5;
+    padding: 10px 15px;
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    height: 9.375rem ;
+    color: white;
+}
+
+.footer-link {
+    margin: 10px;
+    text-decoration: none;
+}
+
+/*
+.code-skill-description {
+    clear: left;
+}
+
+.chilli-skill {
+    clear: right;
+}
+*/
